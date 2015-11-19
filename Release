@@ -1,0 +1,9 @@
+Origin: RushNY's Repo
+Label: RushNY's Repo
+Suite: stable
+Version: 1.0
+Codename: RushNY
+Architectures: iphoneos-arm
+Components: main
+Description: Personal Cydia Repo
+MD5Sum:
