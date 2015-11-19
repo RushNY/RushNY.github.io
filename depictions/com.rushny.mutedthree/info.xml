@@ -1,0 +1,38 @@
+<package>
+	<id>com.rushny.mutedthree</id>
+	<name>Muted Three</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Muted Three for Anemone</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>None</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/RushNY</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/rlcodispoti</url>
+		</link>
+		
+	</links>
+</package>
