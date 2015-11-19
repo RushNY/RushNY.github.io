@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: RushNY <rlcodispoti@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: debs//com.rushny.mutedthree
+Filename: debs//com.rushny.mutedthree.deb
 Size: 167380
 MD5sum: 4D7894B570CF56781E4EBD9B23AE69A8
 SHA1: 8762DD7A1C093BDE0518E8F511FB336CC4F8F22A
